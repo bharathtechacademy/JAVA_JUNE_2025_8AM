@@ -1,10 +1,10 @@
 package finalModifiers;
 
-public class FnlClass2 {
+public class FnlClass2 extends FnlClass1 {
 	
-//	public void printName() {
-//		System.out.println("Bharath Reddy");
-//	}
+	public void printName() {
+		System.out.println("Bharath Reddy");
+	}
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package finalModifiers;
 
-public final class FnlClass1 {
+public class FnlClass1 {
 
 	final double pie = 3.14;//constant
 
@@ -8,7 +8,7 @@ public final class FnlClass1 {
 //		pie = newValue;
 	}
 
-	public  void printName() {
+	public void printName() {
 		System.out.println("Bharath");
 	}
 
