@@ -24,5 +24,7 @@ public interface InterfaceClass1 {
 	private void navigateToFundTransferDefault() {
 		System.out.println("Navigating to Fund Transfer using default method");
 	}
+	
+	public int sumOfNumbers(int a, int b);
 
 }

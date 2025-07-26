@@ -3,8 +3,8 @@ package abstractNonAccessModifers;
 public class InterfaceClass3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		InterfaceClass2 obj = new InterfaceClass2();
+		obj.click();
 	}
 
 }

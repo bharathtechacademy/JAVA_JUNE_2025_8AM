@@ -44,6 +44,14 @@ public class InterfaceClass2 implements InterfaceClass1,InterfaceClass0{
 		// TODO Auto-generated method stub
 		
 	}
+
+	@Override
+	public int sumOfNumbers(int a, int b) {
+		int c= a+b;
+		return c;
+	}
+	
+
 	
 
 
